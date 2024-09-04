@@ -2,4 +2,4 @@
 
 ## Выполнил: Филоненко Никита Дмитриевич
 
-#### Решение задания `№6 EDA`: [ТУТ](src/notebooks/EDA_Parsing.ipynb)
+#### Решение задания `№6 EDA`: [ТУТ](src/notebooks/EDA_Task_F.ipynb)
